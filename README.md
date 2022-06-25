@@ -1,16 +1,21 @@
-### Hi there 👋
+<p align="center"><a href="https://thanighthawk.tech"><img src="./assets/Banner.png" /></a></p>
 
-<!--
-**ThaNightHawk/thanighthawk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, Hallo, Hej 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### BIO
+
+- 👨 Male (He/Him)
+- 📅 23, soon 24, years old.
+- 🏢 Currently attending school.
+- ⚙️ I work with: `.html`, `.css`, `.js`, `.php`, `.sql`, `.psd`, `.ae`
+- 💅 I coded/designed: Dane Sabers V1 website, [ComfyCraft](https://comfycraft.dk), 
+- 🐦 Reach me at: [Twitter](https://twitter.com/thanighthawktv) or [Discord](https://discordapp.com/users/592779895084679188)
+
+##### NOW
+
+- ✨ WEBDEV/Scripter for <b>Dane Saber</b>. - Currently: Developing V2 website.
+
+<br />
+
+&nbsp; [![Spotify](https://novatorem-p6bezkia8-thanighthawk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/gpsmedia)

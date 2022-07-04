@@ -714,6 +714,7 @@ a, a:hover, a:visited, a:active {
 }
 a.link {
 	border-bottom: 1px dotted white;
+	color: #e15959;
 }
 nav.navbar {
 	max-width: 100em;

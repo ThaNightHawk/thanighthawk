@@ -6,7 +6,7 @@
 ##### BIO
 
 - 👨 Male (He/Him)
-- 📅 23, soon 24, years old.
+- 📅 24 years old.
 - 🏢 Currently attending school.
 - ⚙️ I work with: `.html`, `.css`, `.js`, `.php`, `.sql`, `.psd`, `.ae`
 - 💅 I coded/designed: Dane Sabers V1 website, [ComfyCraft](https://comfycraft.dk), 

@@ -9,12 +9,12 @@
 - 📅 24 years old.
 - 🏢 Currently attending school.
 - ⚙️ I work with: `.html`, `.css`, `.js`, `.php`, `.sql`, `.psd`, `.ae`
-- 💅 I coded/designed: Dane Sabers V1 website, [ComfyCraft](https://comfycraft.dk), 
+- 💅 I coded/designed: Dane Sabers V1 website, Dane Sabers V2 Website, [ComfyCraft](https://comfycraft.dk), 
 - 🐦 Reach me at: [Twitter](https://twitter.com/thanighthawktv) or [Discord](https://discordapp.com/users/592779895084679188)
 
 ##### NOW
 
-- ✨ WEBDEV/Scripter for <b>Dane Saber</b>. - Currently: Developing V2 website.
+- ✨ WEBDEV/Scripter for <b>Dane Saber</b>. - Designing Tournament overlays + tools.
 
 <br />
 

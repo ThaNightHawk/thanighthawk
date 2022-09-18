@@ -1,4 +1,4 @@
-<p align="center"><a href="https://thanighthawk.tech"><img src="./assets/Banner.png" /></a></p>
+<p align="center"><img src="./assets/Banner.png" /></p>
 
 
 # Hello, Hallo, Hej 👋

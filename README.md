@@ -9,12 +9,19 @@
 - 📅 24 years old.
 - 🏢 Currently attending school.
 - ⚙️ I work with: `.html`, `.css`, `.js`, `.ts`, `.php`, `.sql`, `.psd`, `.ae`
-- 💅 I coded/designed: Dane Sabers V1 website, Dane Sabers V2 Website, [ComfyCraft](https://comfycraft.dk), 
 - 🐦 Reach me at: [Twitter](https://twitter.com/thanighthawktv) or [Discord](https://discordapp.com/users/592779895084679188)
+
+##### MY WORK
+| # | Product | Language(s) |
+| :----: | :----: | :----: |
+| Dane Saber | V1 Website, V2 Website, API, TournamentUI | PHP, JS, TS, HTML, CSS, SCSS |
+| ComfyCraft | API, McMMO Classes/Library | PHP, JS, TS, HTML, CSS |
+| TournamentTools | 1V1-screen, Picks&Bans-screen <br /> Battle Royale-screen, Player-overview, <br />WebSocket relay-server, API, communication-library | JS, TS, PHP, HTML CSS/Bootstrap |
+#
 
 ##### NOW
 
-- ✨ WEBDEV/Scripter for <b>Dane Saber</b>. - Designing Tournament overlays + tools.
+- ✨ Frontend/Backend/Scripter for <b>Dane Saber</b>.
 
 <br />
 

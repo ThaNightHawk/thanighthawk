@@ -12,20 +12,21 @@
 - 🐦 Reach me at: [Twitter](https://twitter.com/thanighthawktv) or [Discord](https://discordapp.com/users/592779895084679188)
 
 ##### MY WORK
-| # | Product(s) | Language(s) |
-| :----: | :----: | :----: |
-| TournamentTools | Coordinator-panel, 1V1-screen, Picks&Bans-screen <br /> Battle Royale-screen, Player-overview, <br />WebSocket relay-server, API, communication-library | JS, TS, PHP, HTML CSS/Bootstrap |
-| Dane Saber | V1 Website, V2 Website, API, TournamentUI, ScoreFeeds, Matchfeeds, TournamentTools* (Dane Saber edition) | PHP, JS, TS, HTML, CSS, SCSS |
-| ComfyCraft | API, McMMO Classes/Library | PHP, JS, TS, HTML, CSS |
-| BSTS | Countdown-screen, Intermission-screen, <br /> Discord Streamkit-customstyle, <br />TournamentTools* (BSTS Edition, minus Battle Royale+Player-overview) | JS, TS, PHP, HTML | 
-| Streamer Saber Showdown | Countdown-screen, Intermission-screen, 1V1 Overlay | PSD, JS, HTML, CSS |
-| # | TournamentTools* (# Edition, minus 1V1-screen and Pick&Bans-screen) | JS, TS, HTML, CSS |
-| TBD | TBA | HTML, SCSS, TS, C#, .. |
+| # | Open Source? | Product(s) | Language(s) |
+| :----: | :-: | :----: | :----: |
+| TournamentTools | [Yes](https://github.com/DanishBeatSaber/TournamentTools_Public) |  Coordinator-panel, 1V1-screen, Picks&Bans-screen <br /> Battle Royale-screen, Player-overview, <br />WebSocket relay-server, API, communication-library | JS, TS, PHP, HTML CSS/Bootstrap |
+| Dane Saber | No |   V1 Website, V2 Website, API, TournamentUI, ScoreFeeds, Matchfeeds, TournamentTools* (Dane Saber edition) | PHP, JS, TS, HTML, CSS, SCSS |
+| ComfyCraft | No |   API, McMMO Classes/Library | PHP, JS, TS, HTML, CSS |
+| BSTS | No |   Countdown-screen, Intermission-screen, <br /> Discord Streamkit-customstyle, <br />TournamentTools* (BSTS Edition, minus Battle Royale+Player-overview) | JS, TS, PHP, HTML | 
+| Streamer Saber Showdown | No |   Countdown-screen, Intermission-screen, 1V1 Overlay | PSD, JS, HTML, CSS |
+| # | No |   TournamentTools* (# Edition, minus 1V1-screen and Pick&Bans-screen) | JS, TS, HTML, CSS |
+| CS:GO; TournamentWrapper | No |   A "Wrapper" that allows easy control over CS:GO tournaments hosted on dedicated server. <br />Frontend panel is hosted by the server on launch, allowing for out-game configuration from tournament host.  | HTML, SCSS, TS, SourcePawn, .. |
 #
 
 ##### NOW
 
 - ✨ Frontend/Backend/Scripter for <b>Dane Saber</b>.
+- Currently getting the hang of NextJS
 - 👀 Something big! 
 <br />
 

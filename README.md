@@ -19,7 +19,7 @@
 | ComfyCraft | No |   API, McMMO Classes/Library | PHP, JS, TS, HTML, CSS |
 | BSTS | No |   Countdown-screen, Intermission-screen, <br /> Discord Streamkit-customstyle, <br />TournamentTools* (BSTS Edition, minus Battle Royale+Player-overview) | JS, TS, PHP, HTML | 
 | Streamer Saber Showdown | No |   Countdown-screen, Intermission-screen, 1V1 Overlay | PSD, JS, HTML, CSS |
-| # | No |   TournamentTools* (# Edition, minus 1V1-screen and Pick&Bans-screen) | JS, TS, HTML, CSS |
+| BeatKhana Beat Sage Royale | No |   TournamentTools* (BeatKhana-Edition, only including WebPanel, PlayerScreen, Battle Royale overlay and TA Overlay) | JS, TS, HTML, CSS |
 | CS:GO; TournamentWrapper | No |   A "Wrapper" that allows easy control over CS:GO tournaments hosted on dedicated server. <br />Frontend panel is hosted by the server on launch, allowing for out-game configuration from tournament host.  | HTML, SCSS, TS, SourcePawn, .. |
 #
 

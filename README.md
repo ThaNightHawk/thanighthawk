@@ -8,7 +8,7 @@
 
 - 👨 Male (He/Him)
 - 📅 24 years old.
-~~- 🏢 Currently attending school.~~
+- ~~🏢 Currently attending school.~~
 - ⚙️ I work with: `.html`, `.css`, `.js`, `.ts`, `.php`, `.sql`, `.psd`, `.ae`, `React`, `NextJS`
 - 🐦 Reach me at: [Twitter](https://twitter.com/thanighthawktv) or [Discord](https://discordapp.com/users/592779895084679188)
 

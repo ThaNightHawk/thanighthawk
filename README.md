@@ -22,7 +22,7 @@
 | Streamer Saber Showdown | No |   Countdown-screen, Intermission-screen, 1V1 Overlay | PSD, JS, HTML, CSS |
 | BeatKhana Beat Sage Royale | No |   TournamentTools* (BeatKhana-Edition, only including WebPanel, PlayerScreen, Battle Royale overlay and TA Overlay) | JS, TS, HTML, CSS |
 | CS:GO; TournamentWrapper | No |   A "Wrapper" that allows easy control over CS:GO tournaments hosted on dedicated server. <br />Frontend panel is hosted by the server on launch, allowing for out-game configuration from tournament host.  | HTML, SCSS, TS, SourcePawn, .. |
-| Various Beat Saber Tourneys | No |   Some bigger, some smaller. Don't want to name them, since they don't want to credit my work.  | TS, JS, Tailwind, GQL |
+| Various Beat Saber Tourneys | No |   Some bigger, some smaller. Don't want to name them, since there's too many and the list would be infinitely long.  | TS, JS, Tailwind, GQL |
 #
 
 ##### NOW

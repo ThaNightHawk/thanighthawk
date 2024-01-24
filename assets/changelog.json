@@ -1,49 +1,51 @@
-[{
-    date: '2023-05-15 23:26',
-    label: 'Summer Season Update',
-    desc: 'Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in',
-    img: 'img/news.png',
-    author: '@Hawk_bs',
-},
-{
-    date: '2023-05-15 23:26',
-    label: 'Summer Season Update',
-    desc: 'Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in',
-    img: 'img/news.png',
-    author: '@Matce',
-},
-{
-    date: '2023-05-15 23:26',
-    label: 'Summer Season Update',
-    desc: 'Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in',
-    img: 'img/news.png',
-    author: '@Matce',
-},
-{
-    date: '2023-05-15 23:26',
-    label: 'Summer Season Update',
-    desc: 'Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in',
-    img: 'img/news.png',
-    author: '@Matce',
-},
-{
-    date: '2023-05-15 23:26',
-    label: 'Summer Season Update',
-    desc: 'Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in',
-    img: 'img/news.png',
-    author: '@Matce',
-},
-{
-    date: '2023-05-15 23:26',
-    label: 'Summer Season Update',
-    desc: 'Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in',
-    img: 'img/news.png',
-    author: '@Matce',
-},
-{
-    date: '2023-05-15 23:26',
-    label: 'Summer Season Update',
-    desc: 'Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in',
-    img: 'img/news.png',
-    author: '@Matce',
-}]
+[
+    {
+        "date": "2023-05-15 23:26",
+        "label": "Summer Season Up'date'",
+        "desc": "Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in",
+        "img": "img/news.png",
+        "author": "@Hawk_bs"
+    },
+    {
+        "date": "2023-05-15 23:26",
+        "label": "Summer Season Up'date'",
+        "desc": "Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in",
+        "img": "img/news.png",
+        "author": "@Matce"
+    },
+    {
+        "date": "2023-05-15 23:26",
+        "label": "Summer Season Up'date'",
+        "desc": "Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in",
+        "img": "img/news.png",
+        "author": "@Matce"
+    },
+    {
+        "date": "2023-05-15 23:26",
+        "label": "Summer Season Up'date'",
+        "desc": "Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in",
+        "img": "img/news.png",
+        "author": "@Matce"
+    },
+    {
+        "date": "2023-05-15 23:26",
+        "label": "Summer Season Up'date'",
+        "desc": "Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in",
+        "img": "img/news.png",
+        "author": "@Matce"
+    },
+    {
+        "date": "2023-05-15 23:26",
+        "label": "Summer Season Up'date'",
+        "desc": "Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in",
+        "img": "img/news.png",
+        "author": "@Matce"
+    },
+    {
+        "date": "2023-05-15 23:26",
+        "label": "Summer Season Up'date'",
+        "desc": "Losrem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore etdolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in",
+        "img": "img/news.png",
+        "author": "@Matce"
+    }
+]

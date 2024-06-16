@@ -8,7 +8,7 @@
 
 - 👨 Male (He/Him)
 - 📅 25 years old.
-- 🏢 Attending school.
+- ~~🏢 Attending school.~~
 - ⚙️ I work with: `.html`, `.css`, `.js`, `.ts`, `.php`, `.sql`, `.psd`, `.ae`, `React`, `NextJS`
 - 🐦 Reach me at: [Twitter](https://twitter.com/thanighthawktv) or [Discord](https://discordapp.com/users/592779895084679188)
 
@@ -25,8 +25,6 @@
 | Various Beat Saber Tourneys | No |   Some bigger, some smaller. Don't want to name them, since there's too many and the list would be infinitely long.  | TS, JS, Tailwind, GQL |
 #
 
-##### NOW
-- Enrolled to school. Trying to get my AP in Comp. Sci, and then get a bachelor in webdev.
 <br />
 
 &nbsp; [![Spotify](https://novatorem-p6bezkia8-thanighthawk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/gpsmedia)

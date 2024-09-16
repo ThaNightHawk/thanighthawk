@@ -1,14 +1,7 @@
-<p align="center"><img src="./assets/Banner.png" /></p>
-
-
 # Hello, Hallo, Hej 👋 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q8BH6VR)
-
-### BIO
 
 - 👨 Male (He/Him)
-- 📅 25 years old.
-- ~~🏢 Attending school.~~
+- 📅 26 years old.
 - ⚙️ I work with: `.html`, `.css`, `.js`, `.ts`, `.php`, `.sql`, `.psd`, `.ae`, `React`, `NextJS`
 - 🐦 Reach me at: [Twitter](https://twitter.com/thanighthawktv) or [Discord](https://discordapp.com/users/592779895084679188)
 
@@ -27,4 +20,8 @@
 
 <br />
 
+<p align="center">
+  
 &nbsp; [![Spotify](https://novatorem-p6bezkia8-thanighthawk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/gpsmedia)
+
+</p>

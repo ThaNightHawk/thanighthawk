@@ -41,8 +41,3 @@ Right now I'm probably starting a new project, trying to figure out something fu
 | CS:GO; TournamentWrapper | A "Wrapper" that allows easy control over CS:GO tournaments hosted on dedicated server. <br />Frontend panel is hosted by the server on launch, allowing for out-game configuration for the tournamenthost. | ![HTML](https://img.shields.io/badge/HTML-%23E34F26?style=flat-square&logo=html5&logoColor=white&color=%23E34F26) ![CSS](https://img.shields.io/badge/CSS-%23663399?style=flat-square&logo=css&logoColor=white&color=%23663399) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white&color=%233178C6) ![Source Engine](https://img.shields.io/badge/Source_Engine-%23F79A10?style=flat-square&logo=sourceengine&logoColor=white&color=%23F79A10) |
 | Various Beat Saber Tourneys | Some bigger, some smaller. Don't want to name them, since there's too many and the list would be infinitely long. | ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white&color=%233178C6) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black&color=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwindcss&logoColor=white&color=%2306B6D4) ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?style=flat-square&logo=graphql&logoColor=white&color=%23E10098) |
 <br />
-<p align="center">
-  
-&nbsp; ![Spotify](https://novatorem-p6bezkia8-thanighthawk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)
-
-</p>

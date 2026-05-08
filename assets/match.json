@@ -1,0 +1,31 @@
+{
+    "maplist": [
+        "de_inferno",
+        "de_cache",
+        "de_nuke",
+    ],
+    "team1": {
+        "id": "1",
+        "name": "Bing Bongs",
+        "tag": null,
+        "flag": "EU"
+    },
+    "team2": {
+        "id": "2",
+        "name": "Ding Dongs",
+        "tag": null,
+        "flag": "US"
+    },
+    "matchid": "1",
+    "num_maps": 3,
+    "players_per_team": 1,
+    "min_players_to_ready": 1,
+    "max_rounds": 32,
+    "max_overtime_rounds": 6,
+    "vote_timeout": 60000,
+    "eventula_apistats_url": null,
+    "eventula_apistats_token": null,
+    "eventula_demo_upload_url": null,
+    "allow_suicide": true,
+    "team_mode": 0
+}
